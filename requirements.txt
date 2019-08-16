@@ -1,0 +1,31 @@
+# Core
+telethon >= 1.9.0
+# Compatibility for 3.5
+future-fstrings
+# Config
+pythondialog
+# Heroku
+heroku3
+gitpython
+
+## Modules
+# Lyrics
+lyricsgenius
+# Stickers
+Pillow
+# Speedtest
+speedtest-cli
+# Weather
+pyowm
+# Translation
+pyyandextranslateapi
+# Figlet rendering (mock)
+pyfiglet
+# Animated stickers
+cairosvg
+tgs
+# TTS
+gtts
+hachoir
+# Updater
+gitpython
